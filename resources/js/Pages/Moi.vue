@@ -1,6 +1,6 @@
 <template>
     <div>
-    j ai reussi laravel cloud
+    j ai reussi laravel cloud encore
     </div>
 </template>
 
